@@ -53,7 +53,7 @@ for(let i = 0; i < role.length; i++){
 
     const newLi = `
     <li>
-        <h3> ${thisrole.name} ${thisrole.role} ${thisrole.Image} </h3>
+        <h3> ${thisrole.name}, ${thisrole.role}, ${thisrole.Image} </h3>
     </li>
     `;
 
